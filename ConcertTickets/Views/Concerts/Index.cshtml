@@ -1,0 +1,55 @@
+﻿@model IEnumerable<ConcertTickets.Models.Concert>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<p>
+    <a asp-controller="Tickets" asp-action="Create" >Buy Ticket</a>
+</p>
+
+@{
+    var i = 0;
+
+    foreach(var item in Model)
+    {
+        if(i % 3 <= 0)
+        {
+            @:<div class="row" style="place-content: center">
+        }
+
+        
+       
+        <div class="card" style="width: 18rem; margin: 1%">
+            <img class="card-img-top" src=@item.ImageURL alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">@item.ConcertName</h5>
+                 <h6 class="card-title">@item.ConcertDate</h6>
+                <p class="card-text">@item.ConcertPlace</p>
+                 <p class="card-text">@item.ConcertPrice</p>
+            </div>
+            <div class="card-footer text-center">
+            
+                <span> <a asp-controller="Concerts" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Edit</a></span>
+                <span> <a asp-controller="Concerts" asp-action="Details" asp-route-id="@item.Id" class="btn btn-secondary">Details</a> </span>
+                <span> <a asp-controller="Concerts" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a> </span>
+           
+              
+            </div>
+        </div>
+       
+        if(i == 2)
+        {
+            @:</div>
+            i = -1;
+        }
+        i++;
+    }
+}

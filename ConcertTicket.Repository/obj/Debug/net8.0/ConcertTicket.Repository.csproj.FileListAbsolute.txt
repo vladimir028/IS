@@ -1,0 +1,11 @@
+C:\Users\vladi\Documents\Integrirani Sistemi\Lab\Lab1\ConcertTickets\ConcertTicket.Repository\bin\Debug\net8.0\ConcertTicket.Repository.deps.json
+C:\Users\vladi\Documents\Integrirani Sistemi\Lab\Lab1\ConcertTickets\ConcertTicket.Repository\bin\Debug\net8.0\ConcertTicket.Repository.dll
+C:\Users\vladi\Documents\Integrirani Sistemi\Lab\Lab1\ConcertTickets\ConcertTicket.Repository\bin\Debug\net8.0\ConcertTicket.Repository.pdb
+C:\Users\vladi\Documents\Integrirani Sistemi\Lab\Lab1\ConcertTickets\ConcertTicket.Repository\obj\Debug\net8.0\ConcertTicket.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\Documents\Integrirani Sistemi\Lab\Lab1\ConcertTickets\ConcertTicket.Repository\obj\Debug\net8.0\ConcertTicket.Repository.AssemblyInfoInputs.cache
+C:\Users\vladi\Documents\Integrirani Sistemi\Lab\Lab1\ConcertTickets\ConcertTicket.Repository\obj\Debug\net8.0\ConcertTicket.Repository.AssemblyInfo.cs
+C:\Users\vladi\Documents\Integrirani Sistemi\Lab\Lab1\ConcertTickets\ConcertTicket.Repository\obj\Debug\net8.0\ConcertTicket.Repository.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Documents\Integrirani Sistemi\Lab\Lab1\ConcertTickets\ConcertTicket.Repository\obj\Debug\net8.0\ConcertTicket.Repository.dll
+C:\Users\vladi\Documents\Integrirani Sistemi\Lab\Lab1\ConcertTickets\ConcertTicket.Repository\obj\Debug\net8.0\refint\ConcertTicket.Repository.dll
+C:\Users\vladi\Documents\Integrirani Sistemi\Lab\Lab1\ConcertTickets\ConcertTicket.Repository\obj\Debug\net8.0\ConcertTicket.Repository.pdb
+C:\Users\vladi\Documents\Integrirani Sistemi\Lab\Lab1\ConcertTickets\ConcertTicket.Repository\obj\Debug\net8.0\ref\ConcertTicket.Repository.dll

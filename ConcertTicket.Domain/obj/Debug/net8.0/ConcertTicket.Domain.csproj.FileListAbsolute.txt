@@ -1,0 +1,11 @@
+C:\Users\vladi\Documents\Integrirani Sistemi\Lab\Lab1\ConcertTickets\ConcertTicket.Domain\bin\Debug\net8.0\ConcertTicket.Domain.deps.json
+C:\Users\vladi\Documents\Integrirani Sistemi\Lab\Lab1\ConcertTickets\ConcertTicket.Domain\bin\Debug\net8.0\ConcertTicket.Domain.dll
+C:\Users\vladi\Documents\Integrirani Sistemi\Lab\Lab1\ConcertTickets\ConcertTicket.Domain\bin\Debug\net8.0\ConcertTicket.Domain.pdb
+C:\Users\vladi\Documents\Integrirani Sistemi\Lab\Lab1\ConcertTickets\ConcertTicket.Domain\obj\Debug\net8.0\ConcertTicket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\Documents\Integrirani Sistemi\Lab\Lab1\ConcertTickets\ConcertTicket.Domain\obj\Debug\net8.0\ConcertTicket.Domain.AssemblyInfoInputs.cache
+C:\Users\vladi\Documents\Integrirani Sistemi\Lab\Lab1\ConcertTickets\ConcertTicket.Domain\obj\Debug\net8.0\ConcertTicket.Domain.AssemblyInfo.cs
+C:\Users\vladi\Documents\Integrirani Sistemi\Lab\Lab1\ConcertTickets\ConcertTicket.Domain\obj\Debug\net8.0\ConcertTicket.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Documents\Integrirani Sistemi\Lab\Lab1\ConcertTickets\ConcertTicket.Domain\obj\Debug\net8.0\ConcertTicket.Domain.dll
+C:\Users\vladi\Documents\Integrirani Sistemi\Lab\Lab1\ConcertTickets\ConcertTicket.Domain\obj\Debug\net8.0\refint\ConcertTicket.Domain.dll
+C:\Users\vladi\Documents\Integrirani Sistemi\Lab\Lab1\ConcertTickets\ConcertTicket.Domain\obj\Debug\net8.0\ConcertTicket.Domain.pdb
+C:\Users\vladi\Documents\Integrirani Sistemi\Lab\Lab1\ConcertTickets\ConcertTicket.Domain\obj\Debug\net8.0\ref\ConcertTicket.Domain.dll
